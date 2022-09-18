@@ -3,11 +3,9 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/112325834/190880658-bd773ff8-62a8-4f88-9ced-37d9c8b0f3b2.jpg"
 </p>
-</p>
 
-## Introdução
+## O Custo do Papel
 
-</p>
 Com o avanço e o crescimento das novas tecnologias, deixamos de armazenar informações no papel para um armazenamento digital de dados. O ponto de transição ocorreu em 1996, quando o armazenamento digital se tornou mais econômico do que armazenar informações no papel <b>[1]</b>.</p>
 Esse processo do crescimento da informação digital tornou-se inseparável dos aspectos de nossas vidas e da sociedade. Como exemplo, a cada dia produzimos mais de 500 milhões de tweets <b>[2]</b>, 333 bilhões de e-mails <b>[3]</b>, 4 milhões de gigabytes de dados do Facebook <b>[4]</b>, 65 bilhões de mensagens do WhatsApp <b>[5]</b> e 720.000 horas de novos conteúdos adicionados no Youtube diariamente <b>[6]</b>, para mencionar apenas essas 4 empresas.</p>
 </p>
@@ -45,7 +43,7 @@ A diferença mais significativa entre os dois conceitos é que o banco de dados 
     <tr>
       <td>Organização de dados</td>
       <td>Um <i>scheme</i> predefinido</td>
-      <td>Scheme dinâmico</td>
+      <td><i>Scheme</i> dinâmico</td>
     </tr>
     <tr>
       <td>Escalabilidade</td>
@@ -74,11 +72,9 @@ De forma superficial, o SQL parece superar os benefícios do NoSQL, mas isso nã
 O NoSQL também é usado quando não conhecemos antecipadamente os esquemas do banco de dados que se vai trabalhar, apesar de ter desvantagem por não suportar processamento transacional <b>(Mehmood et al, 2017)</b>.</p>
 
 Torna-se imprescindível para o engenheiro de dados, o conhecimento e o domínio na utilização e manipulação de dados em banco de dados relacionais e não relacionais. Pois apenas assim será possível evoluir na carreira e se destacar na área de atuação.</p>
-</p>
 
 ### Referências
 
-</p>
 <b>[1]</b> The Conversation / Melvin M. Vopson (17/09/2022): The world’s data explained: how much we’re producing and where it’s all stored.</p>
 <b>[2]</b> Visual Capitalist / Racounter (17/09/2022): A Day In Data.</p>
 <b>[3]</b> Statista (17/09/2022): Number of sent and received e-mails per day worldwide from 2017 to 2025.</p>
